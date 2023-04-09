@@ -1,0 +1,39 @@
+C:\Users\dumfuk\Desktop\repo\Giao diện btl\bin\Debug\Giao diện btl.exe.config
+C:\Users\dumfuk\Desktop\repo\Giao diện btl\bin\Debug\Giao diện btl.exe
+C:\Users\dumfuk\Desktop\repo\Giao diện btl\bin\Debug\Giao diện btl.pdb
+C:\Users\dumfuk\Desktop\repo\Giao diện btl\obj\Debug\Giao diện btl.csproj.AssemblyReference.cache
+C:\Users\dumfuk\Desktop\repo\Giao diện btl\obj\Debug\Giao diện btl.csproj.SuggestedBindingRedirects.cache
+C:\Users\dumfuk\Desktop\repo\Giao diện btl\obj\Debug\Giao_diện_btl.Form1.resources
+C:\Users\dumfuk\Desktop\repo\Giao diện btl\obj\Debug\Giao_diện_btl.Form2.resources
+C:\Users\dumfuk\Desktop\repo\Giao diện btl\obj\Debug\Giao_diện_btl.Properties.Resources.resources
+C:\Users\dumfuk\Desktop\repo\Giao diện btl\obj\Debug\Giao diện btl.csproj.GenerateResource.cache
+C:\Users\dumfuk\Desktop\repo\Giao diện btl\obj\Debug\Giao diện btl.csproj.CoreCompileInputs.cache
+C:\Users\dumfuk\Desktop\repo\Giao diện btl\obj\Debug\Giao diện btl.exe
+C:\Users\dumfuk\Desktop\repo\Giao diện btl\obj\Debug\Giao diện btl.pdb
+C:\Users\dumfuk\Desktop\repo\Giao diện btl\obj\Debug\Giao_diện_btl.Form4.resources
+C:\Users\dumfuk\Desktop\repo\Giao diện btl\obj\Debug\Giao_diện_btl.Form5.resources
+C:\Users\dumfuk\Desktop\repo\Giao diện btl\obj\Debug\Giao_diện_btl.Form3.resources
+C:\Users\dumfuk\Desktop\repo\Giao diện btl\obj\Debug\Giao_diện_btl.Form6.resources
+C:\Users\dumfuk\Desktop\repo\Giao diện btl\obj\Debug\Giao_diện_btl.Form7.resources
+C:\Users\dumfuk\Desktop\repo\Giao diện btl\obj\Debug\Giao_diện_btl.Form8.resources
+C:\Users\dumfuk\Desktop\repo\Giao diện btl\obj\Debug\Giao_diện_btl.Form9.resources
+C:\Users\dell\Desktop\Giao diện btl\bin\Debug\Giao diện btl.exe.config
+C:\Users\dell\Desktop\Giao diện btl\bin\Debug\Giao diện btl.exe
+C:\Users\dell\Desktop\Giao diện btl\bin\Debug\Giao diện btl.pdb
+C:\Users\dell\Desktop\Giao diện btl\obj\Debug\Giao diện btl.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Giao diện btl\obj\Debug\Giao_diện_btl.Form10.resources
+C:\Users\dell\Desktop\Giao diện btl\obj\Debug\Giao_diện_btl.Form7.resources
+C:\Users\dell\Desktop\Giao diện btl\obj\Debug\Giao_diện_btl.Form8.resources
+C:\Users\dell\Desktop\Giao diện btl\obj\Debug\Giao_diện_btl.Form9.resources
+C:\Users\dell\Desktop\Giao diện btl\obj\Debug\Giao_diện_btl.Form3.resources
+C:\Users\dell\Desktop\Giao diện btl\obj\Debug\Giao_diện_btl.Properties.Resources.resources
+C:\Users\dell\Desktop\Giao diện btl\obj\Debug\Giao diện btl.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\Giao diện btl\obj\Debug\Giao diện btl.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Giao diện btl\obj\Debug\Giao diện btl.exe
+C:\Users\dell\Desktop\Giao diện btl\obj\Debug\Giao diện btl.pdb
+C:\Users\dell\Desktop\Giao diện btl\obj\Debug\Giao_diện_btl.FrmTTBN.resources
+C:\Users\dell\Desktop\Giao diện btl\obj\Debug\Giao_diện_btl.FrmNhanVien.resources
+C:\Users\dell\Desktop\Giao diện btl\obj\Debug\Giao_diện_btl.FrmLoaiDV.resources
+C:\Users\dell\Desktop\Giao diện btl\obj\Debug\Giao_diện_btl.FrmDANGNHAP.resources
+C:\Users\dell\Desktop\Giao diện btl\obj\Debug\Giao_diện_btl.FrmDichvu.resources
+C:\Users\dell\Desktop\Giao diện btl\obj\Debug\Giao_diện_btl.FrmTrangchu.resources
